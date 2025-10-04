@@ -7,6 +7,7 @@ categories: [Blogging, Demo]
 tags: [typography]
 math: true
 mermaid: true
+hidden: true
 ---
 
 ## Headings
