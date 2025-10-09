@@ -4,5 +4,6 @@ icon: fas fa-file
 order: 1
 ---
 
-> TODO: add link
-{: .prompt-info }
+## Up-to-date resume
+
+{% pdf "/assets/posts/resume.pdf" %}
