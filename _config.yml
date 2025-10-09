@@ -69,8 +69,8 @@ analytics:
     id: # fill in your Umami ID
     domain: # fill in your Umami domain
   matomo:
-    id: # fill in your Matomo ID
-    domain: # fill in your Matomo domain
+    id: 2
+    domain: "https://stats.cst1.fr"
   cloudflare:
     id: # fill in your Cloudflare Web Analytics token
   fathom:
@@ -78,7 +78,7 @@ analytics:
 
 # Page views settings
 pageviews:
-  provider: # now only supports 'goatcounter'
+  provider: matomo # now only supports 'goatcounter'
 
 # Prefer color scheme setting.
 #
